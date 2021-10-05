@@ -77,3 +77,32 @@
   - FR 42 - User is displayed the amount games he/she played in the tournament, the box score, shooting splits, per game averages, and shot chart all based off those tournament games.
 
 # Non-functional Requirements
+- Annortator Page - **HIGH PRIORITY** (Refers to **BR1**)
+    - NR 1 - Allows user to keep track of thier stats throughout a game film
+    - NR 2 - Should update the stat when a button is pressed 
+
+- Account Page -  **ALL MEDIUM PRIORITY** (Refers to **BR1**)
+    - NR 3 - Allow users to see their account information
+    - NR 4 - Allow users to edit their account information
+   
+- Sign up Page -  **ALL HIGH PRIORITY** (Refers to **BR1**)
+    - NR 5 - Takes user information and creates a profile
+    - NR 6 - Create user name and password
+   
+- Stats Information Page -  **High PRIORITY** (Refers to **BR1**)
+    - NR 7 - This page displays the stats and analytics we keep.
+   
+- Upload Page -  **HIGH PRIORITY** (Refers to **B1**)
+    - NR 8 - Takes the video file selected by the player and uploades it to the wedsite
+    
+- Player Home Page -  **HIGH PRIORITY** (Refers to **B1**)
+    - NR 9 - Allow a player to see in a list format all of their games uploaded to the site.
+  
+- Precentile Page - **Medium PRIORITY** (Refers to **B1**)
+    - NR 10 - Users should be able to see what percentile they rank for a specific stat  
+
+- Badges Page - **Low Priority** (Refers to **BR1**)
+  - NR 11 - Keeps track of a player precentile for each stat and assigns a badge to the payers with the highest precentiles
+   
+- Coach Database -  **MEDIUM PRIORITY** (Refers to **BR2**)
+    - NR 12 - Stores every college coach's contact imformation that can be access by users
