@@ -13,7 +13,7 @@
 * Chosen by the client for database managment
 
 ## [Slack](https://slack.com)
-* Chosen by the profesor to be the main form of communication.
+* Chosen by the professor to be the main form of communication.
 
 ## [Zoom](https://zoom.us)
 * We chose zoom to do video calls because we are all familiar with it.
