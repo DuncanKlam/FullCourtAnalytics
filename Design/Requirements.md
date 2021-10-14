@@ -78,12 +78,12 @@
 
 # Non-functional Requirements
 - Annortator Page - **HIGH PRIORITY** (Refers to **BR1**)
-    - NR 1 - Allows user to keep track of thier stats throughout a game film
-    - NR 2 - Should update the stat when a button is pressed 
+    - NR 1 - Buttons are laid out in manner that is both efficient and appropriate
+    - NR 2 - Table will update the stat for a player when a button is pressed  
 
 - Account Page -  **ALL MEDIUM PRIORITY** (Refers to **BR1**)
     - NR 3 - Allow users to see their account information
-    - NR 4 - Allow users to edit their account information
+    - NR 4 - Allow users to edit their account  information
    
 - Sign up Page -  **ALL HIGH PRIORITY** (Refers to **BR1**)
     - NR 5 - Takes user information and creates a profile
