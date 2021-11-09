@@ -1,6 +1,6 @@
-## User Manual
+# User Manual
 
-# **As a player**
+## **As a player**
 
 Go to fullcourtanyalytics.com
 
@@ -16,7 +16,7 @@ From there you can access the account settings page where it will ask you person
 
 Once you're done on the website access the side bar to logout which is located at the bottom of the side bar
 
-# **As a Admin**
+## **As a Admin**
 
 Go to fullcourtanyalytics.com
 
