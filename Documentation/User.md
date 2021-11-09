@@ -1,4 +1,4 @@
-***User Manual***
+## User Manual
 
 **As a player**
 
