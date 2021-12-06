@@ -20,6 +20,8 @@ Before beginning the application, open a terminal and run
 > npm run server
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## TO Run Application
+
 To begin application locally, open a terminal in the 'fca' folder and run the command:
 
 > npm install
