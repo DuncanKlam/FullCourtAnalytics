@@ -26,7 +26,7 @@ Acessing the side bar again, you can select the profile page which will have all
 
 Accessing the side bar again, you can select the the overview page which will show you 3 circle graphs and a bar graph of your averages
 
-![Screen Shot 2021-12-06 at 9 02 26 PM](https://user-images.githubusercontent.com/70355847/144952482-89935584-aaa1-421f-9d5b-56acf9625023.png)
+![Screen Shot 2021-12-06 at 10 52 51 PM](https://user-images.githubusercontent.com/70355847/144963179-654c72e2-0d6b-41e2-bcdb-cb23027ed29b.png)
 
 Accessing the side bar again, you can select the video upload page where you will need to fill out the form and insert a youtube link then click the "upload film" button to upload your game film to Full Court Analytics.
 
