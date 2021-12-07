@@ -22,7 +22,7 @@ From there you can access the account settings page where it will ask you person
 
 Acessing the side bar again, you can select the profile page which will have all of your information you just submitted in the account settings page
 
-![Screen Shot 2021-12-06 at 8 57 59 PM](https://user-images.githubusercontent.com/70355847/144952079-15c6a45e-8484-4cac-9eb9-2bc4d0dbd039.png)
+![Screen Shot 2021-12-06 at 9 57 51 PM](https://user-images.githubusercontent.com/70355847/144958026-f889aa39-bc71-468a-8945-c543dbb1890d.png)
 
 Accessing the side bar again, you can select the the overview page which will show you 3 circle graphs and a bar graph of your averages
 
