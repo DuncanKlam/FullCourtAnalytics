@@ -2,11 +2,11 @@
 
 ## Meeting Start Time
 
-**2022/2/09/15:40**
+**2022/2/09/15:00**
 
 ## Meeting End Time
 
-**2022/2/09/15:00**
+**2022/2/09/15:40**
 
 ## Location/Medium
 
