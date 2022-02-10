@@ -14,29 +14,46 @@ Once signed up enter username/email address and password to sign in (skip if you
 
 ![Screen Shot 2021-12-06 at 8 53 44 PM](https://user-images.githubusercontent.com/70355847/144951614-db3f350d-5849-4982-b71e-b6a90522379f.png)
 
-Access the side bar at the top left of the screen that are the three lines in a row
+Access the site header settings gear at the top right of the screen
 
 From there you can access the account settings page where it will ask you personal information, fill out the form as much as you want
 
-![Screen Shot 2021-12-06 at 8 54 44 PM](https://user-images.githubusercontent.com/70355847/144951731-ff98944a-10c6-4305-8619-db785f025661.png)
+![Screen Shot 2021-12-06 at 8 54 44 PM]()
 
-Acessing the side bar again, you can select the profile page which will have all of your information you just submitted in the account settings page
+Acessing the side bar, you can select the profile page which will have all of your information you just submitted in the account settings page
 
-![Screen Shot 2021-12-06 at 9 57 51 PM](https://user-images.githubusercontent.com/70355847/144958026-f889aa39-bc71-468a-8945-c543dbb1890d.png)
+![Screen Shot 2021-12-06 at 9 57 51 PM](/assets/profile.png)
 
 Accessing the side bar again, you can select the the overview page which will show you 3 circle graphs and a bar graph of your averages
 
-![Screen Shot 2021-12-06 at 10 52 51 PM](https://user-images.githubusercontent.com/70355847/144963179-654c72e2-0d6b-41e2-bcdb-cb23027ed29b.png)
+![Screen Shot 2021-12-06 at 10 52 51 PM](/assets/overview.png)
 
-Accessing the side bar again, you can select the video upload page where you will need to fill out the form and insert a youtube link then click the "upload film" button to upload your game film to Full Court Analytics.
+Accessing the side bar again, you can select the video upload page where you will find all the videos you have uploaded with some basic information.
 
-![Screen Shot 2021-12-06 at 9 03 53 PM](https://user-images.githubusercontent.com/70355847/144952826-70add4af-2002-4fa9-8d92-931eac2bb398.png)
+![Screen Shot 2021-12-06 at 9 03 53 PM](/assets/uploaded_videos.png)
 
-Accessing the side bar again, you can select the analytics page where you will find a shot charts button, select it
+Access the site header to fill out the video upload form and insert a youtube link then click the "upload film" button to upload your game film to Full Court Analytics.
+![Video Upload Modal](/assets/upload_modal.png)
 
-Once you've selected it you'll find a shot chart
+Accessing the side bar again, you can select the analytics page where you will find multiple buttons:
+![Screen Shot 2021-12-06 at 9 07 51 PM](/assets/analytics.png)
 
-![Screen Shot 2021-12-06 at 9 07 51 PM](https://user-images.githubusercontent.com/70355847/144953044-24047229-a7ef-4bbb-81a0-bee9c94f7ee9.png)
+
+Shot Chart:
+Shot charts show the percentage of player shots according to certain game, action type, and shot type filters
+![Screen Shot 2021-12-06 at 9 07 51 PM](/assets/shot_charts.png)
+
+Career Highs:
+Career Highs show the top three career highs based on annotated videos in various categories
+![Screen Shot 2021-12-06 at 9 07 51 PM](/assets/career_highs.png)
+
+Accessing the side bar again, you can select the game log page where you will find a log of all uploaded games and box score:
+![Screen Shot 2021-12-06 at 9 07 51 PM](/assets/game_log.png)
+
+Accessing the side bar again, you can select the coach contact page where you will find a list of college basketball coaches:
+![Screen Shot 2021-12-06 at 9 07 51 PM](/assets/coach_contact.png)
+
+
 
 Once you're done on the website access the side bar to logout which is located at the bottom of the side bar
 
