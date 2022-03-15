@@ -42,31 +42,31 @@ Access the site header to fill out the video upload form and insert a youtube li
 Accessing the side bar again, you can select the analytics page where you will find multiple tabs:
 ![Analytics Page](/assets/analytics.png)
 
-Shot Chart:
+### Shot Chart:
 Shot charts show the percentage of player shots according to certain game, action type, and shot type filters
 ![Shot Chart Analytics Tab](/assets/analytics.png)
 
-Action Types:
+### Action Types:
 Action Types show the percentile ranking and a table with more stats for various actions the annotaters record
 ![Action Types Analytics Tab](/assets/action_types.png)
 
-Shot Types:
+### Shot Types:
 Shot Types show the percentile ranking and a table with more stats for various shots the annotaters record
 ![Action Types Analytics Tab](/assets/shot_types.png)
 
-Career Highs:
+### Career Highs:
 Career Highs show the top three career highs based on annotated videos in various categories
 ![Career Highs Analytics Tab](/assets/career_highs.png)
 
-Badges:
+### Badges:
 Badges has the top ten badges the player has earned through their uploaded games that have been annotated
 ![Badges Analytics Tab](/assets/badges.png)
 
-Game Log:
+### Game Log:
 Game Log is where you will find a log of all uploaded games and box scores
 ![Game Log Analytics Tab](/assets/game_log.png)
 
-Mapping:
+### Mapping:
 Mapping has more overall percentile charts and a player map that will distinguish between two different data sets of games for a player and display a skills mapping radar chart
 ![Mapping Analytics Tab](/assets/mapping.png)
 
