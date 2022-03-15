@@ -16,7 +16,7 @@ Once signed up enter email address and password to sign in
 
 Access the site header settings gear at the top right of the screen
 
-![Settings Gear Icon](/assets/gear_icon.png)
+![Settings Gear Icon](/assets/gear_icon.jpg)
 
 From there you can access the account settings page by selecting 'Account' where it will ask you personal information, fill out the form as much as you want
 
@@ -87,7 +87,7 @@ Once logged in access the side bar and click on the 'Annotate Game' button
 
 ![Annotate Game Button](/assets/annotate_game.png)
 
-Select a player whose game film you wish to annotate then click the select player
+Select a player whose game film you wish to annotate, click 'Select Player' and then choose which of the available games to annotate. 
 
 ![Screenshot (115)](https://user-images.githubusercontent.com/70355847/144955425-2cc88da0-a147-4a7b-acfd-10e467745d09.png)
 
