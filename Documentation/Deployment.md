@@ -1,7 +1,7 @@
 
 # Deployment
 
-### This application utilises JavaScript, Node.js, and Node Package Manager, as well as several nonstandard packages
+### This application utilises JavaScript and Node.js, as well as several nonstandard packages
 
 #### This application is meant to be connected to a Firestore database for data storage.
 ### For testing, or to run on a local network, the application can be connected to a JSON server by changing the 'testing' tag in DatabaseAccessor to false
