@@ -8,11 +8,11 @@ Click *register for an account* at the botton of the screen
 
 Fill out the form and click register once you've completed
 
-![Full Court Analytics Registration Form](https://user-images.githubusercontent.com/70355847/144951502-eb41a8e8-b5d8-4fe7-ad3a-e7e319da1deb.png)
+![Full Court Analytics Registration Form](/assets/register.png)
 
 Once signed up enter email address and password to sign in
 
-![Full Court Analytics Login Page](https://user-images.githubusercontent.com/70355847/144951614-db3f350d-5849-4982-b71e-b6a90522379f.png)
+![Full Court Analytics Login Page](/assets/login.png)
 
 Access the site header settings gear at the top right of the screen
 
@@ -24,7 +24,11 @@ From there you can access the account settings page by selecting 'Account' where
 
 Acessing the side bar, you can select the profile page which will have all of your information you just submitted in the account settings page
 
-![Profile Page](/assets/profile.png)
+![Profile Page](/assets/profile.png)  
+
+![Profile Page](/assets/profile-2.png)  
+
+![Profile Page](/assets/profile-3.png)  
 
 Accessing the side bar again, you can select the the overview page which will show you 3 circle graphs and a bar graph of your averages
 
@@ -39,7 +43,7 @@ Accessing the side bar again, you can select the video upload page where you wil
 Access the site header to fill out the video upload form and insert a youtube link then click the "upload film" button to upload your game film to Full Court Analytics.
 ![Video Upload Form](/assets/upload_modal.png)
 
-Accessing the side bar again, you can select the analytics page where you will find multiple tabs:
+Accessing the side bar again, you can select the analytics page where you will find an option list:
 ![Analytics Page](/assets/analytics.png)
 
 ### Shot Chart:
@@ -81,19 +85,19 @@ Go to fullcourtanyalytics.com
 
 Log into your account
 
-![Screen Shot 2021-12-06 at 8 53 44 PM](https://user-images.githubusercontent.com/70355847/144951614-db3f350d-5849-4982-b71e-b6a90522379f.png)
+![Screen Shot 2021-12-06 at 8 53 44 PM](/assets/analyst.png)
 
 Once logged in access the side bar and click on the 'Annotate Game' button
 
-![Annotate Game Button](/assets/annotate_game.png)
+![Annotate Game Button](/assets/players.png)
 
 Select a player whose game film you wish to annotate, click 'Select Player' and then choose which of the available games to annotate. 
 
-![Screenshot (115)](https://user-images.githubusercontent.com/70355847/144955425-2cc88da0-a147-4a7b-acfd-10e467745d09.png)
+![Screenshot (115)](/assets/select-game-annotate.png)
 
 Press "start clip" then record whether it is an offensive possesion or defensive possesion
 
-![Screenshot (116)](https://user-images.githubusercontent.com/70355847/144955508-580d4d92-c0c9-48d1-872b-0ee4115e1cdd.png)
+![Screenshot (116)](/assets/annotate-game.png)
 
 Select the quarter in which the game is in
 
