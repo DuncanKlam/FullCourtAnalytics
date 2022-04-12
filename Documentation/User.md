@@ -14,6 +14,10 @@ Once signed up enter email address and password to sign in
 
 ![Full Court Analytics Login Page](/assets/login.png)
 
+You will be brought to the home page which will show you 3 circle graphs and a bar graph of your averages as well as an overall heat map of your shots
+
+![Overview Page](/assets/overview.png)
+
 Access the site header settings gear at the top right of the screen
 
 ![Settings Gear Icon](/assets/gear_icon.jpg)
@@ -29,12 +33,6 @@ Acessing the side bar, you can select the profile page which will have all of yo
 ![Profile Page](/assets/profile-2.png)  
 
 ![Profile Page](/assets/profile-3.png)  
-
-Accessing the side bar again, you can select the the overview page which will show you 3 circle graphs and a bar graph of your averages
-
-![Overview Page](/assets/overview.png)
-
-![Overview Page Part 2](/assets/overview_two.png)
 
 Accessing the side bar again, you can select the video upload page where you will find all the videos you have uploaded with some basic information.
 
@@ -71,7 +69,7 @@ Game Log is where you will find a log of all uploaded games and box scores
 ![Game Log Analytics Tab](/assets/game_log.png)
 
 ### Mapping:
-Mapping has more overall percentile charts and a player map that will distinguish between two different data sets of games for a player and display a skills mapping radar chart
+Mapping has more overall percentile charts and a player map that will distinguish between different data sets of games for a player and display a skills mapping radar chart
 ![Mapping Analytics Tab](/assets/mapping.png)
 
 Accessing the side bar again, you can select the coach contact page where you will find a list of college basketball coaches:
