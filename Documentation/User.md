@@ -56,6 +56,8 @@ Action Types show the percentile ranking and a table with more stats for various
 Shot Types show the percentile ranking and a table with more stats for various shots the annotaters record
 ![Action Types Analytics Tab](/assets/shot_types.png)
 
+![Action Types Analytics Tab](/assets/shot_types_2.png)
+
 ### Career Highs:
 Career Highs show the top three career highs based on annotated videos in various categories
 ![Career Highs Analytics Tab](/assets/career_highs.png)
